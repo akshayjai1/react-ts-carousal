@@ -18,7 +18,7 @@ export default function App() {
   });
   return (
     <div>
-      <h2>Carousal</h2>
+      <h2>Moving Carousal</h2>
       <div className="carousal-container">
         {data.map((e, i) => {
           let multiple = data.length + (i + shiftInteger) % data.length;
