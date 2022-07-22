@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-ts-carousal/static/css/main.9b136bae.css",
+    "main.js": "/react-ts-carousal/static/js/main.0d9b6a56.js",
+    "index.html": "/react-ts-carousal/index.html",
+    "main.9b136bae.css.map": "/react-ts-carousal/static/css/main.9b136bae.css.map",
+    "main.0d9b6a56.js.map": "/react-ts-carousal/static/js/main.0d9b6a56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b136bae.css",
+    "static/js/main.0d9b6a56.js"
+  ]
+}
