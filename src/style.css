@@ -1,0 +1,51 @@
+h1,
+p {
+  font-family: Lato;
+}
+.row {
+  display: grid;
+  grid-template-columns: 180px 140px 220px 80px;
+}
+.header {
+  font-weight: bold;
+}
+.carousal-container {
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  margin: 20px;
+  position: relative;
+  height: 300px;
+  overflow: auto;
+}
+.card {
+  position: absolute;
+  transition: left 1s, right 1s;
+  background-color: white;
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 4px;
+  padding: 8px;
+  margin: 10px;
+  opacity: 0.7;
+}
+.card.active {
+  opacity: 1;
+}
+.card .tag {
+  background-color: rgb(254, 240, 238);
+  color: rgb(248, 115, 99);
+  font-size: 1.5rem;
+  margin: 4px;
+}
+.card .header {
+  margin: 4px;
+  color: rgb(33, 33, 33);
+  font-size: 1.75rem;
+}
+.card .text {
+  margin: 4px;
+  font-size: 1rem;
+}
