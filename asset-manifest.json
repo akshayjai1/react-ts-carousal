@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-ts-carousal/static/css/main.9b136bae.css",
-    "main.js": "/react-ts-carousal/static/js/main.416c99f0.js",
+    "main.css": "/react-ts-carousal/static/css/main.97d7de61.css",
+    "main.js": "/react-ts-carousal/static/js/main.b939905e.js",
     "index.html": "/react-ts-carousal/index.html",
-    "main.9b136bae.css.map": "/react-ts-carousal/static/css/main.9b136bae.css.map",
-    "main.416c99f0.js.map": "/react-ts-carousal/static/js/main.416c99f0.js.map"
+    "main.97d7de61.css.map": "/react-ts-carousal/static/css/main.97d7de61.css.map",
+    "main.b939905e.js.map": "/react-ts-carousal/static/js/main.b939905e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b136bae.css",
-    "static/js/main.416c99f0.js"
+    "static/css/main.97d7de61.css",
+    "static/js/main.b939905e.js"
   ]
 }
