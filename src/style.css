@@ -21,7 +21,7 @@ p {
 }
 .card {
   position: absolute;
-  transition: left 1s, right 1s;
+  /* transition: left 15s, right 15s; */
   background-color: white;
   width: 240px;
   display: flex;
